@@ -1,7 +1,7 @@
 # React-Code-Smells-Dataset-Analysis
 
 ## Overview
-This repository contains a React Component Smell Dataset that was gathered using two specific tools ReactSniffer and ReactRecon. ReactSniffer is a publicly tool while ReactRecon - A static tool for React Code Smell Detection was developed by me along with my associates as a part of our Final Year Project. More than 200 benchmark React Code Repositories were analysed to gather this Dataset. 
+This repository contains a React Component Smell Dataset that was gathered using two specific tools ReactSniffer and ReactRecon. ReactSniffer is a publicly available tool while ReactRecon - A static tool for React Code Smell Detection was developed by me along with my associates as a part of our Final Year Project. More than 200 benchmark React Code Repositories were analysed to gather this Dataset. 
 
 ## Files
 1. **DatasetAnalysis.ipynb**: Jupyter Notebook containing Exploratory Data Analysis (EDA) on the dataset.
